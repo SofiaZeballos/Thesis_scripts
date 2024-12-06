@@ -1,0 +1,142 @@
+﻿Complejo,Gen en humanos,Enfermedad en humanos,Gen en Celegans,WBID,Sequence Name,Funcion,Anotado en GO,Cluster del grafo,Usar para entrenar
+I,-,,nduv-3,WBGene00022075,Y69A2AR.3,Core,mitochondrial respiratory chain complex I,whitesmoke,no
+III,-,,ucr-11,WBGene00019007,F57B10.14,Core,mitochondrial respiratory chain complex III,coral,no
+IV,-,,Y111B2A.2,WBGene00013728,Y111B2A.2,Core,"mitochondrial inner membrane	",brown,no
+IV,-,,cox-6c,WBGene00017926,F29C4.2,Core,"mitochondrial inner membrane	",coral,no
+IV,-,,B0035.18,WBGene00044290,B0035.18,Core,"mitochondrial inner membrane	",coral,no
+I,-,,ndfl-4,WBGene00010958,MTCE.4,Core,mitochondrial respiratory chain complex I,brown,si
+I,-,,nduo-3,WBGene00010966,MTCE.34,Core,mitochondrial respiratory chain complex I,brown,si
+I,-,,nduo-6,WBGene00010957,MTCE.3,Core,mitochondrial respiratory chain complex I,coral,si
+I,-,,nduo-1,WBGene00010959,MTCE.11,Core,mitochondrial respiratory chain complex I,coral,si
+I,-,,nduo-2,WBGene00010961,MTCE.16,Core,mitochondrial respiratory chain complex I,coral,si
+I,-,,nduo-4,WBGene00010963,MTCE.25,Core,mitochondrial respiratory chain complex I,coral,si
+I,-,,nduo-5,WBGene00010967,MTCE.35,Core,mitochondrial respiratory chain complex I,coral,si
+IV,-,,ctc-3,WBGene00010962,MTCE.23,Core,cytochrome-c oxidase activity,coral,si
+IV,-,,ctc-1,WBGene00010964,MTCE.26,Core,mitochondrial respiratory chain complex IV,coral,si
+IV,-,,ctc-2,WBGene00010965,MTCE.31,Core,"mitochondrial electron transport, cytochrome c to oxygen",coral,si
+V,-,,atp-6,WBGene00010960,MTCE.12,Core,"proton-transporting ATP synthase complex, coupling factor F(o)",coral,si
+I,ACADVL ,Alzheimer's disease and very long chain acyl-CoA dehydrogenase deficiency. ,acdh-12,WBGene00012860,Y45F3A.3,Ensamblado,Sin anotaciones relacionadas,darkred,no
+V,ATP5F1A ,Combined oxidative phosphorylation deficiency 22; mitochondrial complex V (ATP synthase) deficiency nuclear type 4; and vascular dementia. ,atp-1,WBGene00010419,H28O16.1,Core,ATP biosynthetic process,coral,si
+V,ATP5F1B ,Hypermetabolism due to uncoupled mitochondrial oxidative phosphorylation 2 (HUMOP2),atp-2,WBGene00000229,C34E10.6,Core,"proton-transporting ATP synthase complex, catalytic core F(1)",coral,si
+V,ATP5F1C ,-,Y69A2AR.18,WBGene00022089,Y69A2AR.18,Core,"proton-transporting ATP synthase complex, catalytic core F(1)",coral,si
+V,ATP5F1D ,"Alzheimer's disease and mitochondrial complex V (ATP synthase) deficiency, type 5. ",F58F12.1,WBGene00019061,F58F12.1,Core,"proton-transporting ATP synthase complex, catalytic core F(1)",coral,si
+V,ATP5F1E ,Mitochondrial complex V (ATP synthase) deficiency nuclear type 3. ,hpo-18,WBGene00017982,F32D1.2,Core,"mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)",coral,no
+V,ATP5F1E ,Mitochondrial complex V (ATP synthase) deficiency nuclear type 3. ,R05D3.6,WBGene00019880,R05D3.6,Core,"mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)",No está en el grafo,no
+V,ATP5F1E ,Mitochondrial complex V (ATP synthase) deficiency nuclear type 3. ,ZC262.5,WBGene00022582,ZC262.5,Core,"mitochondrial proton-transporting ATP synthase complex, catalytic sector F(1)	",No está en el grafo,no
+V,ATP5MC1/ATP5MC2/ATP5MC3,"Leber hereditary optic neuropathy, autosomal recessive (LHONAR), clear cell renal cell carcinoma; early-onset dystonia and/or spastic paraplegia; and urinary bladder cancer. ",Y82E9BR.3,WBGene00022336,Y82E9BR.3,Core,Sin anotación,coral,si
+V,ATP5ME ,-,R04F11.2,WBGene00011015,R04F11.2,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",coral,si
+V,ATP5MF,-,R53.4 ,WBGene00011273,R53.4,Core,"proton-transporting ATP synthase complex, coupling factor F(o)",coral,si
+V,ATP5MG ,Alzheimer's disease.,asg-1,WBGene00000209,K07A12.3,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",bisque,no
+V,ATP5MG ,Alzheimer's disease.,asg-2,WBGene00000210,C53B7.4,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",coral,no
+V,ATP5PB ,Clear cell renal cell carcinoma and hepatocellular carcinoma. ,asb-1,WBGene00000206,F35G12.10,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",brown,no
+V,ATP5PB ,Clear cell renal cell carcinoma and hepatocellular carcinoma. ,asb-2,WBGene00000207,F02E8.1,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",coral,no
+V,ATP5PD ,-,atp-5,WBGene00007385,C06H2.1,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",coral,si
+V,ATP5PF ,Implicated in essential hypertension. ,atp-4,WBGene00020275,T05H4.12,Core,"mitochondrial proton-transporting ATP synthase complex, coupling factor F(o)",brown,si
+V,ATP5PO ,"Mitochondrial complex V deficiency, nuclear type 7 (MC5DN7)",atp-3,WBGene00000230,F27C1.7,Core,"proton-transporting ATP synthase complex, catalytic core F(1)",coral,si
+V,ATPAF2 ,"Mitochondrial complex V (ATP synthase) deficiency, nuclear type 1. ",Y116A8C.27,WBGene00022089,,Core,"proton-transporting ATP synthase complex, catalytic core F(1)",coral,si
+III,BCS1L,Bjornstad syndrome; GRACILE syndrome; and mitochondrial complex III deficiency nuclear type 1. ,bcs-1,WBGene00010042,F54C9.6,Ensamblado,"	mitochondrial respiratory chain complex III assembly",brown,no
+IV,COA1,-,coa-1,WBGene00195063,Y38C1AA.14,Ensamblado,"mitochondrial respiratory chain complex I assembly, mitochondrial cytochrome c oxidase assembly",whitesmoke,no
+IV,COA3,"Mitochondrial complex IV deficiency, nuclear type 14 (MC4DN14), cytochrome-c oxidase deficiency disease. ",coa-3,WBGene00018046,F35D11.5,Ensamblado,"mitochondrial cytochrome c oxidase assembly	",coral,no
+IV,COA4,-,coa-4,WBGene00011857,T20D3.3,Ensamblado,Sin anotación,coral,no
+IV,COA5,"Mitochondrial complex IV deficiency, nuclear type 9 (MC4DN9), fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 3. ",coa-5,WBGene00012483,Y18D10A.16,Ensamblado,mitochondrial cytochrome c oxidase assembly,coral,no
+IV,COA7,"Spinocerebellar ataxia, autosomal recessive, with axonal neuropathy 3 (SCAN3)",coa-7,WBGene00013925,ZK20.4,Ensamblado,mitochondrial intermembrane space,brown,no
+IV,COX10,"Mitochondrial complex IV deficiency, nuclear type 3 (MC4DN3), cytochrome-c oxidase deficiency disease. ",cox-10,WBGene00012895,Y46G5A.2,Ensamblado,"mitochondrion, heme biosynthetic process",silver,no
+IV,COX11,"Mitochondrial complex IV deficiency, nuclear type 23 (MC4DN23)",cox-11,WBGene00010437,JC8.5,Ensamblado,mitochondrial inner membrane,silver,no
+IV,COX14,"Mitochondrial complex IV deficiency, nuclear type 10 (MC4DN10)",cox-14,WBGene00011875,T20G5.14,Ensamblado,membrane,coral,no
+IV,COX15,"Mitochondrial complex IV deficiency, nuclear type 6 (MC4DN6), Leigh disease; fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 2; and hypertrophic cardiomyopathy. ",cox-15,WBGene00011526,T06D8.5,Ensamblado,"mitochondrial inner membrane, oxidoreductase activity, acting on NAD(P)H, heme protein as acceptor",darkred,no
+IV,COX16,"Mitochondrial complex IV deficiency, nuclear type 22 (MC4DN22)",cox-16,WBGene00302991,C24G6.13,Ensamblado,mitochondrial cytochrome c oxidase assembly,No está en el grafo,no
+IV,COX17,-,cox-17,WBGene00018240,F40G9.2,Ensamblado,mitochondrial cytochrome c oxidase assembly,coral,no
+IV,COX18,-,cox-18,WBGene00021932,Y55F3AR.1,Ensamblado,mitochondrial cytochrome c oxidase assembly,silver,no
+IV,COX19,-,cox-19,WBGene00009745,F45H11.5,Ensamblado,mitochondrial cytochrome c oxidase assembly,brown,no
+IV,COX4I1 ,"Mitochondrial complex IV deficiency, nuclear type 16 (MC4DN16), cytochrome-c oxidase deficiency disease. ",cox-4,WBGene00012354,W09C5.8,Core,mitochondrial respiratory chain complex IV,coral,si
+IV,COX5A ,"Mitochondrial complex IV deficiency, nuclear type 20 (MC4DN20), cytochrome-c oxidase deficiency disease. ",cox-5a,WBGene00012553,Y37D8A.14,Core,mitochondrial respiratory chain complex IV,coral,si
+IV,COX5B,-,cox-5b,WBGene00000371,F26E4.9,Core,mitochondrial respiratory chain complex IV,whitesmoke,si
+IV,COX6A,"Mitochondrial complex IV deficiency, nuclear type 18 (MC4DN18), Charcot-Marie-Tooth disease recessive intermediate D and cytochrome-c oxidase deficiency disease.",cox-6a,WBGene00006519,F54D8.2,Core,mitochondrial respiratory chain complex IV,coral,si
+IV,COX6B2,Cytochrome-c oxidase deficiency disease. ,cox-6b,WBGene00022170,Y71H2AM.5,Core,respiratory chain complex IV,lightcoral,si
+IV,COX7C,-,cox-7c,WBGene00009161,F26E4.6,Core,mitochondrial respiratory chain complex IV,coral,si
+III,CYB,"Cardiomyopathy, infantile histiocytoid (CMIH), Leber hereditary optic neuropathy (LHON)",ctb-1,WBGene00000829,MTCE.21,Core,mitochondrial respiratory chain complex III,coral,si
+III,CYC1,Mitochondrial complex III deficiency nuclear type 6. ,cyc-1  ,WBGene00000869,C54G4.8,Core,mitochondrial respiratory chain complex III,silver,si
+IV,CYCS ,Huntington's disease; carcinoma (multiple); and thrombocytopenia 4.,cys-2.2,WBGene00013854,ZC116.2,Core,"mitochondrial electron transport, cytochrome c to oxygen, 	mitochondrial electron transport, ubiquinol to cytochrome c",greenyellow,no
+IV,CYCS ,Huntington's disease; carcinoma (multiple); and thrombocytopenia 4.,cys-2.1,WBGene00017121,E04A4.7,Core,"mitochondrial electron transport, cytochrome c to oxygen, 	mitochondrial electron transport, ubiquinol to cytochrome c",coral,si
+I,DMAC1,-,-,,,,,,
+I,FOXRD1 ,"Mitochondrial complex I deficiency, type 19. ",M04B2.4,WBGene00010847,M04B2.4,Ensamblado,"mitochondrion	",brown,no
+I,HDGF,-,C06A5.3,WBGene00015501,C06A5.3,?,mitochondrial respiratory chain complex I,lightcoral,no
+IV,HIGD2A ,-,T20D3.6,WBGene00011859,T20D3.6,Ensamblado,mitochondrial respirasome assembly,brown,no
+I,NDUA3,-,-,,,,,,
+I,NDUA4,"Mitochondrial complex IV deficiency, nuclear type 21",-,,,,,,
+I,NDUA5,-,ndua-5,WBGene00007880,C33A12.1,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUA6 ,"Mitochondrial complex I deficiency, nuclear type 33",nuo-3,WBGene00013308,Y57G11C.12,Core,mitochondrial respiratory chain complex I,snow,si
+I,NDUA7,-,ndua-7,WBGene00009740,F45H10.3,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUA8,"Mitochondrial complex I deficiency, nuclear type 37",ndua-8,WBGene00021849,Y54F10AM.5,Accesoria,mitochondrial respiratory chain complex I,brown,si
+I,NDUAA,"Mitochondrial complex I deficiency, nuclear type 22",nuo-4,WBGene00019401,K04G7.4,Accesoria,mitochondrial respiratory chain complex I,brown,si
+I,NDUB1,-,-,,,,,,
+I,NDUB4 ,-,nuo-6,WBGene00012166,W01A8.4,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUC1,-,-,,,,,,
+I,NDUF8,"Mitochondrial complex I deficiency, nuclear type 34",-,,,,,,
+I,NDUFA1 ,"Mitochondrial complex I deficiency, nuclear type 12",ndua-1,WBGene00009294,F31D4.9,Accesoria,mitochondrial respiratory chain complex I,whitesmoke,si
+I,NDUFA11,"Mitochondrial complex I deficiency, nuclear type 14",nduf-11,WBGene00007192,B0491.5,Accesoria,Sin anotación,lightsalmon,si
+I,NDUFA12,"Mitochondrial complex I deficiency, nuclear type 23",ndua-12,WBGene00022380,Y94H6A.8,Accesoria,mitochondrial respiratory chain complex I,brown,si
+I,NDUFA13,"Hurthle cell thyroid carcinoma (HCTC) and Mitochondrial complex I deficiency, nuclear type 28",ndua-13,WBGene00016393,C34B2.8,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFA2,"Mitochondrial complex I deficiency, nuclear type 13",ndua-2 ,WBGene00013406,Y63D3A.7,Ensamblado,mitochondrial respiratory chain complex I,coral,no
+I,NDUFA4L2,-,-,,,,,,
+I,NDUFA9,"Mitochondrial complex I deficiency, nuclear type 26 (MC1DN26)",nduf-9,WBGene00021800,Y53G8AL.2,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFAB1,-,ndab-1,WBGene00013237,Y56A3A.19,Accesoria,mitochondrial respiratory chain complex I,coral,no
+I,NDUFAB1,-,ndab-2,WBGene00018151,F37C12.3,Accesoria,mitochondrial respiratory chain complex I,coral,no
+I,NDUFAF1,"Mitochondrial complex I deficiency, type 11. ",nuaf-1,WBGene00008225,C50B8.3,Ensamblado,mitochondrial respiratory chain complex I assembly,silver,no
+I,NDUFAF2 ,"Mitochondrial complex I deficiency, type 10. ",Y116A8C.30,WBGene00013807,Y116A8C.30,Ensamblado,mitochondrial respiratory chain complex I,brown,no
+I,NDUFAF3,"Mitochondrial complex I deficiency, type 18. ",nuaf-3,WBGene00011123,R07H5.3,Ensamblado,mitochondrial respiratory chain complex I assembly,brown,no
+I,NDUFAF4,"Mitochondrial complex I deficiency, type 15 ",B0035.15,WBGene00007113,B0035.15,Ensamblado,mitochondrial respiratory chain complex I assembly,brown,no
+I,NDUFAF5 ,"Mitochondrial complex I deficiency, type 16.",K09E4.3,WBGene00010721,K09E4.3,Ensamblado,mitochondrial respiratory chain complex I assembly,silver,no
+I,NDUFAF6 ,"Mitochondrial complex I deficiency, type 17 and Fanconi renotubular syndrome 5 ",B0334.5,WBGene00007145,B0334.5,Ensamblado,Sin anotaciones relacionadas,whitesmoke,no
+I,NDUFAF7 ,May be a cause of susceptibility to pathologic myopia,ZK1128.1,WBGene00014227,ZK1128.1,Ensamblado,mitochondrial respiratory chain complex I assembly,brown,no
+I,NDUFB10,"Mitochondrial complex I deficiency, nuclear type 35",ndub-10,WBGene00010326,F59C6.5,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFB11,Linear skin defects with multiple congenital anomalies 3 ,ndub-11,WBGene00018361,F42G8.10,Accesoria,mitochondrial respiratory chain complex I,darkorange,si
+I,NDUFB2,"Mitochondrial complex I deficiency, type 30",ndub-2,WBGene00009712,F44G4.2,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFB3 ,"Mitochondrial complex I deficiency, type 25 and Alzheimer's disease",ndub-3,WBGene00007684,C18E9.4,Ensamblado,mitochondrial respiratory chain complex I assembly,coral,no
+I,NDUFB5,-,ndub-5,WBGene00016118,C25H3.9,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFB6,-,ndub-6,WBGene00014086,ZK809.3,Core,mitochondrial respiratory chain complex I,brown,si
+I,NDUFB7,"Mitochondrial complex I deficiency, nuclear type 39",ndub-7,WBGene00008414,D2030.4,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFB8,"Mitochondrial complex I deficiency, nuclear type 32 (MC1DN32)",ndub-8,WBGene00013094,Y51H1A.3,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFB9,"Mitochondrial complex I deficiency, type 24",ndub-9,WBGene00015810,C16A3.5,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFC2,"Mitochondrial complex I deficiency, type 36.",nduc-2,WBGene00022169,Y71H2AM.4,Accesoria,mitochondrial respiratory chain complex I,whitesmoke,si
+I,NDUFS1 ,"Mitochondrial complex I deficiency, nuclear type 5",nuo-5,WBGene00021562,Y45G12B.1,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUFS4,"Mitochondrial complex I deficiency, nuclear type 1 (MC1DN1) and Leigh syndrome",lpd-5,WBGene00003061,ZK973.10,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFS5 ,-,nduf-5,WBGene00021839,Y54E10BL.5,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFS6,"Mitochondrial complex I deficiency, nuclear type 9 (MC1DN9)",nduf-6,WBGene00009051,F22D6.4,Accesoria,mitochondrial respiratory chain complex I,coral,si
+I,NDUFS7 ,"Mitochondrial complex I deficiency, nuclear type 3 (MC1DN3)",nduf-7,WBGene00012376,W10D5.2,Core,mitochondrial respiratory chain complex I,yellowgreen,si
+I,NDUFS8,"Mitochondrial complex I deficiency, nuclear type 2 (MC1DN2)",ndus-8,WBGene00020636,T20H4.5,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUFV1 ,"Mitochondrial complex I deficiency, nuclear type 4 (MC1DN4)",nuo-1,WBGene00003831,C09H10.3,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUFV2,Mitochondrial complex I deficiency 7 and Parkinson's disease ,nduv-2,WBGene00009992,F53F4.10,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUS2,"Mitochondrial complex I deficiency, nuclear type 6",nduf-2.2,WBGene00006463,T26A5.3,Core,mitochondrial respiratory chain complex I,brown,no
+I,NDUS2 ,"Mitochondrial complex I deficiency, nuclear type 6",gas-1,WBGene00001520,K09A9.5,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUS3,"Mitochondrial complex I deficiency, nuclear type 8 (MC1DN8)",nuo-2,WBGene00020417,T10E9.7,Core,mitochondrial respiratory chain complex I,coral,si
+I,NDUV3,-,-,,,,,,
+I,NU2M,"Leber hereditary optic neuropathy, Alzheimer disease mitochondrial (AD-MT) and leigh's syndrome",-,,,,,,
+I,NU3M,"Mitochondrial complex I deficiency, nuclear type 1 (MC1DN1) and Leigh syndrome",-,,,,,,
+I,NU6M,"Leber hereditary optic neuropathy (LHON), Leber hereditary optic neuropathy with dystonia (LDYT), Mitochondrial encephalomyopathy with lactic acidosis and stroke-like episodes syndrome (MELAS) and Leigh syndrome (LS)",-,,,,,,
+I,NUBP1 ,-,nubp-1,WBGene00008664,F10G8.6,Ensamblado,Sin anotaciones relacionadas,brown,no
+IV,PET100,"Mitochondrial complex IV deficiency, nuclear type 12 (MC4DN12), cytochrome-c oxidase deficiency disease. ",Y53F4B.14,WBGene00013161,Y53F4B.14,Ensamblado,mitochondrial cytochrome c oxidase assembly,silver,no
+IV,PRORP ,Combined oxidative phosphorylation deficiency 54 (COXPD54),coa-6,WBGene00013893,ZC434.7,Ensamblado,respiratory chain complex IV assembly,brown,no
+III,QCR10,-,-,,,,,,
+III,QCR9,-,-,,,,,,
+IV,SCO1,"Mitochondrial complex IV deficiency, nuclear type 4 (MC4DN4), cytochrome-c oxidase deficiency disease; fatal infantile cardioencephalomyopathy due to cytochrome c oxidase deficiency 1; and myopia. ",sco-1,WBGene00015297,C01F1.2,Ensamblado,respiratory chain complex IV assembly,brown,no
+II,SDHA,"Mitochondrial complex II deficiency, nuclear type 1 (MC2DN1), Leigh syndrome (LS, dilated cardiomyopathy 1GG, Neurodegeneration with ataxia and late-onset optic atrophy (NDAXOA) and Paragangliomas 5 (PGL5)",sdha-2,WBGene00016392,C34B2.7,Core,"	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",brown,no
+II,SDHA,"Mitochondrial complex II deficiency, nuclear type 1 (MC2DN1), Leigh syndrome (LS, dilated cardiomyopathy 1GG, Neurodegeneration with ataxia and late-onset optic atrophy (NDAXOA) and Paragangliomas 5 (PGL5)",sdha-1,WBGene00015391,C03G5.1,Core,"	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",coral,si
+II,SDHAF2,Paragangliomas 2 (PGL2),Y57A10A.29,WBGene00013269,Y57A10A.29,Ensamblado,mitochondrial respiratory chain complex II assembly,brown,no
+II,SDHB,"Pheochromocytoma (PCC), Paragangliomas 4 (PGL4), Paraganglioma and gastric stromal sarcoma (PGGSS), Carney-Stratakis syndrome, and Mitochondrial complex II deficiency, nuclear type 4 (MC2DN4).",sdhb-1,WBGene00006433,F42A8.2,Core,"	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",snow,si
+II,SDHC,Carney-Stratakis syndrome; gastrointestinal stromal tumor; and paraganglioma 3,mev-1,WBGene00003225,T07C4.7,Core,"	mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",chocolate,si
+II,SDHD ,"Carney-Stratakis syndrome; mitochondrial complex II deficiency, nuclear type 3, Paraganglioma and gastric stromal sarcoma (PGGSS), Pheochromocytoma (PCC) and paraganglioma 1.",sdhd-1,WBGene00009353,F33A8.5,Core,"mitochondrial respiratory chain complex II, succinate dehydrogenase complex (ubiquinone)",whitesmoke,si
+IV,SURF1,"Mitochondrial complex IV deficiency, nuclear type 1 (MC4DN1), Charcot-Marie-Tooth disease type 4K; Leigh disease; and cytochrome-c oxidase deficiency disease.",stf-1,WBGene00004787,H06I04.2,Ensamblado,"mitochondrial cytochrome c oxidase assembly	",brown,no
+I,TIMMDC1 ,"Mitochondrial complex I deficiency, nuclear type 31",Y38F2AR.3,WBGene00021421,Y38F2AR.3,Ensamblado,"mitochondrion	",coral,no
+III,TTC19,Mitochondrial complex III deficiency nuclear type 2.,ddl-1,WBGene00019125,F59E12.10,Ensamblado,Sin anotaciones relacionadas,brown,no
+III,UQCR10 ,-,C14B9.10,WBGene00015755,C14B9.10,Accesoria,mitochondrial respiratory chain complex III,coral,no
+III,UQCRB ,Mitochondrial complex III deficiency nuclear type 3. ,T02H6.11,WBGene00020181,T02H6.11,Core,mitochondrial respiratory chain complex III,brown,si
+III,UQCRC1 ,"Parkinsonism with polyneuropathy (PKNPY), Alzheimer's disease and multiple mitochondrial dysfunctions syndrome 6. ",mppb-1,WBGene00013880,ZC410.2,Core,mitochondrial matrix,brown,no
+III,UQCRC1 ,"Parkinsonism with polyneuropathy (PKNPY), Alzheimer's disease and multiple mitochondrial dysfunctions syndrome 6. ",ucr-1,WBGene00018963,F56D2.1,Core,respirasome,coral,no
+III,UQCRC2 ,Mitochondrial complex III deficiency nuclear type 5. ,ucr-2.2,WBGene00011679,T10B10.2,Core,mitochondrial matrix,coral,no
+III,UQCRC2 ,Mitochondrial complex III deficiency nuclear type 5. ,ucr-2.3,WBGene00020757,T24C4.1,Core,mitochondrial matrix,coral,no
+III,UQCRC2 ,Mitochondrial complex III deficiency nuclear type 5. ,ucr-2.1,WBGene00012158,VW06B3R.1,Core,mitochondrion,whitesmoke,no
+III,UQCRFS1 ,"Mitochondrial complex III deficiency, type 10.",isp-1,WBGene00002162,F42G8.12,Core,mitochondrial respiratory chain complex III,coral,si
+III,UQCRH ,"Mitochondrial complex III deficiency, nuclear type 11 (MC3DN11)",T27E9.2,WBGene00012094,T27E9.2,Core,mitochondrial respiratory chain complex III,coral,si
+III,UQCRQ ,Mitochondrial complex III deficiency nuclear type 4. ,F45H10.2,WBGene00009739,F45H10.2,Core,mitochondrial respiratory chain complex III,coral,no
+III,UQCRQ ,Mitochondrial complex III deficiency nuclear type 4. ,R07E4.3,WBGene00019937,R07E4.3,Core,mitochondrial respiratory chain complex III,coral,no

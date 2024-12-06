@@ -1,0 +1,2 @@
+﻿GO;NS;enrichment;name;ratio_in_study;ratio_in_pop;p_uncorrected;depth;study_count;p_bonferroni;p_fdr_bh;study_items
+GO:0005737;CC;e;cytoplasm;14/72;2388/46923;1.38676E-05;2;14;0.012980077;0.012980077;171633.0, 173452.0, 174210.0, 174453.0, 175253.0, 175639.0, 175801.0, 176568.0, 180405.0, 183197.0, 184324.0, 189901.0, 3565441.0, 3565571.0

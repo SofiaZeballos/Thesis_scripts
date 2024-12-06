@@ -1,0 +1,13 @@
+﻿Run;Sample;replicate;Sample Name;strain;tissue
+SRR7443973;Muscle.1;biological replicate 1;"N2; Pmyo-3::mCherry-sorted muscle replicate 1";CQ163 [Pmyo-3::mCherry];Muscle
+SRR7443977;Intestine.2;biological replicate 2;"N2; Pges-1::gfp-sorted intestine replicate 2";SJ4144 [Pges-1::gfp];Intestine
+SRR7443978;Intestine.1;biological replicate 1;"N2; Pges-1::gfp-sorted intestine replicate 1";SJ4144 [Pges-1::gfp];Intestine
+SRR7443979;Intestine.4;biological replicate 4;"N2; Pges-1::gfp-sorted intestine replicate 4";SJ4144 [Pges-1::gfp];Intestine
+SRR7443981;Neurons.1;biological replicate 1;"N2; Punc-119::gfp-sorted neurons replicate 1";OH441 [Punc-119::gfp];Neurons
+SRR7443983;Neurons.3;biological replicate 3;"N2; Punc-119::gfp-sorted neurons replicate 3";OH441 [Punc-119::gfp];Neurons
+SRR7443984;Neurons.2;biological replicate 2;"N2; Punc-119::gfp-sorted neurons replicate 2";OH441 [Punc-119::gfp];Neurons
+SRR7443986;Muscle.5;biological replicate 5;"N2; Pmyo-3::mCherry-sorted muscle replicate 5";CQ163 [Pmyo-3::mCherry];Muscle
+SRR7443990;Muscle.6;biological replicate 6;"N2; Pmyo-3::mCherry-sorted muscle replicate 6";CQ163 [Pmyo-3::mCherry];Muscle
+SRR7443970;Hypodermis.5;biological replicate 5;"N2; pY37A1B.5::gfp-sorted hypodermis replicate 5";CQ171 [pY37A1B.5::gfp];Hypodermis
+SRR7443971;Hypodermis.4;biological replicate 4;"N2; pY37A1B.5::gfp-sorted hypodermis replicate 4";CQ171 [pY37A1B.5::gfp];Hypodermis
+SRR7443969;Hypodermis.6;biological replicate 6;"N2; pY37A1B.5::gfp-sorted hypodermis replicate 6";CQ171 [pY37A1B.5::gfp];Hypodermis

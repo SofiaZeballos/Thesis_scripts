@@ -1,0 +1,13 @@
+﻿Samples;Run;Sample Name;source_name;Time;treatment;Group
+CF18_KO_6h.1;SRR21502026;GSM6568665;L1 larvae exposed to CF18 gacA for 6 hours-biological replicate 3;6h;P. aeruginosa CF18 gacA;CF18_KO_6h
+CF18_KO_6h.2;SRR21502027;GSM6568664;L1 larvae exposed to CF18 gacA for 6 hours-biological replicate 2;6h;P. aeruginosa CF18 gacA;CF18_KO_6h
+CF18_KO_6h.3;SRR21502028;GSM6568663;L1 larvae exposed to CF18 gacA for 6 hours-biological replicate 1;6h;P. aeruginosa CF18 gacA;CF18_KO_6h
+CF18_WT_6h.1;SRR21502029;GSM6568662;L1 larvae exposed to CF18 for 6 hours-biological replicate 3;6h;P. aeruginosa CF18;CF18_WT_6h
+CF18_WT_6h.2;SRR21502030;GSM6568661;L1 larvae exposed to CF18 for 6 hours-biological replicate 2;6h;P. aeruginosa CF18;CF18_WT_6h
+CF18_WT_6h.3;SRR21502031;GSM6568660;L1 larvae exposed to CF18 for 6 hours-biological replicate 1;6h;P. aeruginosa CF18;CF18_WT_6h
+CF18_KO_4h.1;SRR21502032;GSM6568659;L1 larvae exposed to CF18 gacA for 4 hours-biological replicate 3;4h;P. aeruginosa CF18 gacA;CF18_KO_4h
+CF18_KO_4h.2;SRR21502033;GSM6568658;L1 larvae exposed to CF18 gacA for 4 hours-biological replicate 2;4h;P. aeruginosa CF18 gacA;CF18_KO_4h
+CF18_KO_4h.3;SRR21502034;GSM6568657;L1 larvae exposed to CF18 gacA for 4 hours-biological replicate 1;4h;P. aeruginosa CF18 gacA;CF18_KO_4h
+CF18_WT_4h.1;SRR21502035;GSM6568656;L1 larvae exposed to CF18 for 4 hours-biological replicate 3;4h;P. aeruginosa CF18;CF18_WT_4h
+CF18_WT_4h.2;SRR21502036;GSM6568655;L1 larvae exposed to CF18 for 4 hours-biological replicate 2;4h;P. aeruginosa CF18;CF18_WT_4h
+CF18_WT_4h.3;SRR21502037;GSM6568654;L1 larvae exposed to CF18 for 4 hours-biological replicate 1;4h;P. aeruginosa CF18;CF18_WT_4h
